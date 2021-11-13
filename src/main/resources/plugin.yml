@@ -1,6 +1,6 @@
 name: PVP
 version: ${version}
-main: xyz.r2turntrue.sample.plugin
+main: xyz.r2turntrue.sample.plugin.SamplePlugin
 api-version: 1.17
 libraries:
   - org.jetbrains.kotlin:kotlin-stdlib:1.5.21
